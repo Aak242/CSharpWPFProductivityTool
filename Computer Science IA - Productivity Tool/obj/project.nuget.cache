@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "nqIbM7W8CWwcThvRey2RKRCrntZhqlgconk9afWrOVINcNHscsftCnw8z0VkwNXAteAtT5AzTDOX0kKSfNVUWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aak242\\source\\repos\\Computer Science IA - Productivity Tool\\Computer Science IA - Productivity Tool\\Computer Science IA - Productivity Tool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aak242\\.nuget\\packages\\datagridthemes\\1.0.0\\datagridthemes.1.0.0.nupkg.sha512",
+    "C:\\Users\\Aak242\\.nuget\\packages\\fontsinstaller\\1.3.0\\fontsinstaller.1.3.0.nupkg.sha512",
+    "C:\\Users\\Aak242\\.nuget\\packages\\materialdesigncolors\\1.2.2\\materialdesigncolors.1.2.2.nupkg.sha512",
+    "C:\\Users\\Aak242\\.nuget\\packages\\materialdesignthemes\\3.0.1\\materialdesignthemes.3.0.1.nupkg.sha512",
+    "C:\\Users\\Aak242\\.nuget\\packages\\microsoft.toolkit.uwp.notifications\\6.0.0\\microsoft.toolkit.uwp.notifications.6.0.0.nupkg.sha512",
+    "C:\\Users\\Aak242\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.18362.2005\\microsoft.windows.sdk.contracts.10.0.18362.2005.nupkg.sha512",
+    "C:\\Users\\Aak242\\.nuget\\packages\\system.runtime.windowsruntime\\4.7.0\\system.runtime.windowsruntime.4.7.0.nupkg.sha512",
+    "C:\\Users\\Aak242\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.7.0\\system.runtime.windowsruntime.ui.xaml.4.7.0.nupkg.sha512",
+    "C:\\Users\\Aak242\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

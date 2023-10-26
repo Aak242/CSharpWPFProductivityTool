@@ -1,0 +1,41 @@
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\bin\Debug\Computer Science IA - Productivity Tool.exe.config
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\bin\Debug\Computer Science IA - Productivity Tool.exe
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\bin\Debug\Computer Science IA - Productivity Tool.pdb
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\MainWindow.g.cs
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\App.g.cs
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\Computer Science IA - Productivity Tool_MarkupCompile.cache
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\Computer Science IA - Productivity Tool_MarkupCompile.lref
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\MainWindow.baml
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\Computer Science IA - Productivity Tool.g.resources
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\Computer_Science_IA___Productivity_Tool.Properties.Resources.resources
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\Computer Science IA - Productivity Tool.csproj.GenerateResource.cache
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\Computer Science IA - Productivity Tool.exe
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\Computer Science IA - Productivity Tool.pdb
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\bin\Debug\MaterialDesignColors.dll
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\Computer Science IA - Productivity Tool.csproj.CopyComplete
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\App.baml
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\bin\Debug\FontsInstaller.dll
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\Computer Science IA - Productivity Tool_Content.g.cs
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\bin\Debug\ComputerScienceIA.mdf
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\bin\Debug\ComputerScienceIA_log.ldf
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\bin\Debug\Database1.mdf
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\bin\Debug\Database1_log.ldf
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\bin\Debug\System.ValueTuple.dll
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\Computer Science IA - Productivity Tool.csprojAssemblyReference.cache
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\UserControlAddEditTask.g.cs
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\UserControlAddEditTask.baml
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\UserControlViewAllTasks.g.cs
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\UserControlViewAllTasks.baml
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\bin\Debug\DataGridThemes.dll
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\CalendarPage.g.cs
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\CalendarPage.baml
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\bin\Debug\Computer Science IA - Productivity Tool.exe.manifest
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\bin\Debug\Computer Science IA - Productivity Tool.application
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\Computer Science IA - Productivity Tool.exe.manifest
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\Computer Science IA - Productivity Tool.application
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\obj\Debug\Computer Science IA - Productivity Tool.exe.config

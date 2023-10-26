@@ -1,0 +1,72 @@
+﻿<UserControl x:Class="Computer_Science_IA___Productivity_Tool.UserControlViewAllTasks"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Computer_Science_IA___Productivity_Tool"
+             mc:Ignorable="d" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             d:DesignHeight="800" d:DesignWidth="615.75">
+
+    <Grid>
+        <materialDesign:TransitioningContent x:Name="TransitioningContentSlide" OpeningEffect="{materialDesign:TransitionEffect SlideInFromLeft, Duration=0:0:0.8}">
+
+            <StackPanel>
+
+                <Grid>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="8*"/>
+                        <ColumnDefinition Width="4*"/>
+                    </Grid.ColumnDefinitions>
+
+
+                    <TextBlock Text="All Tasks for Today" VerticalAlignment="Top" HorizontalAlignment="Left"  Margin="80 73"  Foreground="#606060" FontSize="22" FontFamily="Segoe UI Light" />
+
+                </Grid>
+
+
+
+                <Grid>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="269*"/>
+                        <ColumnDefinition Width="142*"/>
+                        <ColumnDefinition Width="206*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Rectangle Grid.Column="0" HorizontalAlignment="Left" Width="250" VerticalAlignment="Top" Margin="80,-70,0,0" Fill="#7a7a7a" Height="1" Grid.ColumnSpan="2" />
+
+                </Grid>
+
+                <Grid Height="130">
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="87*"/>
+                        <ColumnDefinition Width="67*"/>
+                        <ColumnDefinition Width="154*"/>
+
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock x:Name="DayText" Text="" VerticalAlignment="Bottom" HorizontalAlignment="Left"  Margin="77,-58,0,120"  Foreground="#606060" FontSize="54" FontFamily="Source Sans Pro" FontWeight="Bold" Width="320" Grid.ColumnSpan="3" Loaded="DayText_Loaded"/>
+                    <TextBlock x:Name="DateText" Text="" VerticalAlignment="Bottom" HorizontalAlignment="Left"  Margin="77,0,0,93"  Foreground="#606060" FontSize="21" FontFamily="Source Sans Pro" FontWeight="Normal" Width="201" Grid.ColumnSpan="2" Loaded="DateText_Loaded"/>
+                    <Button x:Name="RefreshButton" Background="#888888" Grid.Column="2" Margin="125,-13,10,111" Content="REFRESH TASKS" Padding="2" FontFamily="Source Sans Pro" Click="RefreshButton_Click" FontWeight="ExtraLight" FontSize="16"/>
+
+                </Grid>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                </Grid>
+
+                <Rectangle Width="610" Margin="0,-110,0 0 " Fill="#7a7a7a" Height="1" />
+                <DataGrid x:Name="DisplayTasks" Margin="80,-20,16,30"  Height="610" IsReadOnly="True"/>
+
+
+            </StackPanel>
+        </materialDesign:TransitioningContent>
+    </Grid>
+</UserControl>

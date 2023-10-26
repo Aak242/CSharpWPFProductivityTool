@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AAK242</Machine>
+    <WindowsUser>Aak242</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>079e19d3-ddd8-46fa-8bfe-8aeee1d92e2e</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Aak242</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\obj\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath></WindowsSdkPath>
+    <LayoutDir>C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\Images\SplashScreen.scale-200.png">
+      <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\Images\LockScreenLogo.scale-200.png">
+      <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\Images\StoreLogo.png">
+      <PackagePath>Images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aak242\.nuget\packages\datagridthemes\1.0.0\lib\net40\DataGridThemes.dll">
+      <PackagePath>Computer Science IA - Productivity Tool\DataGridThemes.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aak242\.nuget\packages\fontsinstaller\1.3.0\lib\FontsInstaller.dll">
+      <PackagePath>Computer Science IA - Productivity Tool\FontsInstaller.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aak242\.nuget\packages\materialdesigncolors\1.2.2\lib\net45\MaterialDesignColors.dll">
+      <PackagePath>Computer Science IA - Productivity Tool\MaterialDesignColors.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aak242\.nuget\packages\materialdesignthemes\2.6.0\lib\net45\MaterialDesignThemes.Wpf.dll">
+      <PackagePath>Computer Science IA - Productivity Tool\MaterialDesignThemes.Wpf.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aak242\.nuget\packages\microsoft.toolkit.uwp.notifications\6.0.0\lib\net461\Microsoft.Toolkit.Uwp.Notifications.dll">
+      <PackagePath>Computer Science IA - Productivity Tool\Microsoft.Toolkit.Uwp.Notifications.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aak242\.nuget\packages\system.valuetuple\4.5.0\lib\net47\System.ValueTuple.dll">
+      <PackagePath>Computer Science IA - Productivity Tool\System.ValueTuple.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aak242\.nuget\packages\toastnotifications\2.5.1\lib\net40\ToastNotifications.dll">
+      <PackagePath>Computer Science IA - Productivity Tool\ToastNotifications.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aak242\.nuget\packages\toastnotifications.messages\2.5.1\lib\net40\ToastNotifications.Messages.dll">
+      <PackagePath>Computer Science IA - Productivity Tool\ToastNotifications.Messages.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\ComputerScienceIA.mdf">
+      <PackagePath>Computer Science IA - Productivity Tool\ComputerScienceIA.mdf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\ComputerScienceIA_log.ldf">
+      <PackagePath>Computer Science IA - Productivity Tool\ComputerScienceIA_log.ldf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\Database1.mdf">
+      <PackagePath>Computer Science IA - Productivity Tool\Database1.mdf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\Database1_log.ldf">
+      <PackagePath>Computer Science IA - Productivity Tool\Database1_log.ldf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\bin\Release\Computer Science IA - Productivity Tool.exe">
+      <PackagePath>Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool\bin\Release\Computer Science IA - Productivity Tool.exe.config">
+      <PackagePath>Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool.exe.config</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

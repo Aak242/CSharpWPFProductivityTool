@@ -1,0 +1,39 @@
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\Computer Science IA - Productivity Tool\DataGridThemes.dll
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\Computer Science IA - Productivity Tool\FontsInstaller.dll
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\Computer Science IA - Productivity Tool\MaterialDesignColors.dll
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\Computer Science IA - Productivity Tool\MaterialDesignColors.pdb
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\Computer Science IA - Productivity Tool\MaterialDesignThemes.Wpf.dll
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\Computer Science IA - Productivity Tool\MaterialDesignThemes.Wpf.pdb
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\Computer Science IA - Productivity Tool\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\Computer Science IA - Productivity Tool\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\Computer Science IA - Productivity Tool\System.ValueTuple.dll
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\Computer Science IA - Productivity Tool\ToastNotifications.dll
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\Computer Science IA - Productivity Tool\ToastNotifications.Messages.dll
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\Computer Science IA - Productivity Tool\ComputerScienceIA.mdf
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\Computer Science IA - Productivity Tool\ComputerScienceIA_log.ldf
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\Computer Science IA - Productivity Tool\Database1.mdf
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\Computer Science IA - Productivity Tool\Database1_log.ldf
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool.exe
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool.exe.config
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\Computer Science IA - Productivity Tool\Computer Science IA - Productivity Tool.pdb
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\resources.pri
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\AppxManifest.xml
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\bin\AnyCPU\Release\ToastNotification.app.build.appxrecipe
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\obj\Release\ToastNotification.app.wapprojAssemblyReference.cache
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\obj\Release\priconfig.xml
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\obj\Release\priconfig.xml.intermediate
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\obj\Release\unfiltered.layout.resfiles
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\obj\Release\unfiltered.layout.resfiles.intermediate
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\obj\Release\filtered.layout.resfiles
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\obj\Release\filtered.layout.resfiles.intermediate
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\obj\Release\excluded.layout.resfiles
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\obj\Release\excluded.layout.resfiles.intermediate
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\obj\Release\resources.resfiles
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\obj\Release\resources.resfiles.intermediate
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\obj\Release\pri.resfiles
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\obj\Release\pri.resfiles.intermediate
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\obj\Release\qualifiers.txt
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\obj\Release\qualifiers.txt.intermediate
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\obj\Release\ProjectArchitectures.txt
+C:\Users\Aak242\source\repos\Computer Science IA - Productivity Tool\ToastNotification.app\obj\Release\ToastNotification.app.wapproj.LastBuild.txt

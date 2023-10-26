@@ -1,0 +1,7 @@
+Crit E - Further implementations
+
+1. An option to add a recurring activity in the user’s routine (e.g. exercise at 7pm daily) to the timetable without having to create a new objective daily.
+2. A calendar to organize and keep track of time, and for convenience.
+3. Classify objectives into subject-specific or general free flow. Allow grouping of subject specific objectives under their respective subjects as indicated through user form to specify details of objective.
+4. A reward system to motivate the client to complete more set objectives through means of consolidating points, which can then be used to unlock achievements and milestones based on certain amounts of points or through other criteria.
+5. Area graph on the home page displaying daily, weekly and all time progress, using the number of completed tasks against total commissioned tasks in order to show the level of consistency of the user.
