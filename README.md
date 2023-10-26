@@ -18,8 +18,6 @@ Notification system: The program provides an option to remind you of your tasks 
 # Tech Stack 💻
 The program is developed using Visual C#, an Object-Oriented Programming (OOP) language that allows for creating an easily navigable and versatile program with many inbuilt features. C# is a statically-typed language that catches errors before the program is run, and runs faster than dynamically typed languages. It also supports cross-platform development, which adds more flexibility and compatibility.
 
-![C# logo]
 
 The program uses Visual Studio 2017 (Build Release 15.9) IDE, which provides a rich set of tools and libraries for developing desktop applications. The program uses WPF (Windows Presentation Foundation), a graphical subsystem that enables designing the UI of the program with better ease of access and usability. WPF also offers greater control and feasibility for creating in-app animations and effects.
 
-![Visual Studio logo] ![WPF logo]
